@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #ffffff; /* Cambia #333 por el color que desees */
+   
+    
+}
+
+
+header {
+    text-align: center;
+    padding: 20px;
+    
+}
+
+h1 {
+
+    color: #ff0000;
+}
+
+section {
+    padding: 20px;
+}
+h2 {
+    color: #2600ff;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #a7a4e8;
+}
+img {
+    max-width: 20%; /* La imagen nunca será más grande que el ancho de su contenedor */
+    height: auto; /* Altura automática para mantener la proporción */
+}
+body {
+    background-color: #232323; /* Cambia #f0f0f0 por el color que desees */
+}
